@@ -5,7 +5,7 @@
     height: 90vh;
     justify-content: center;
     align-items: middle;
-    
+
 }
 
 .clockbox,
@@ -14,6 +14,7 @@
 }
 
 /* Clock styles */
+
 .circle {
     fill: none;
     stroke: #000;

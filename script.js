@@ -21,6 +21,7 @@ const AIGUILLEHR = document.querySelector("#hour");
 const AIGUILLEMIN = document.querySelector("#minute");
 const AIGUILLESEC = document.querySelector("#second");
 
+
 function setDate() {
 
     // la date actuel (fonction)
